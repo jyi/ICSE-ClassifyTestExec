@@ -1,7 +1,7 @@
 
-# Learning to Encode and Classify Test Executions (ICSE 2019)
+# Learning to Encode and Classify Test Executions (ICSE 2020)
 
-This is a complementary repository for the paper submitted to ICSE 2019, "Learning to Encode and Classify Test Executions". It contains the code for each step of the approach explained, and includes the original execution traces of one of the case studies (Ethereum).
+This is a complementary repository for the paper submitted to ICSE 2020, "Learning to Encode and Classify Test Executions". It contains the code for each step of the approach explained, and includes the original execution traces of one of the case studies (Ethereum).
 
 Using the scripts it is possible to train a neural network for classification and recreate the results presented for that specific program.
 
